@@ -1,6 +1,6 @@
 # chatapp
 
-Please visit the live page https://secret-b9c00.web.app/
+Please visit the live page https://newn-d2ee2.web.app/
 popular chat group:
          default,
          myj,
