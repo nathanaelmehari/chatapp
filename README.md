@@ -5,5 +5,5 @@ popular chat group:
          default,
          myj,
          kin
-React on FrontEnd and Firebase on back,
+            React on FrontEnd and Firebase on back,
 deployed on firebase
