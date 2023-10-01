@@ -5,5 +5,6 @@ popular chat group:
          default,
          myj,
          kin.
-            It uses React on FrontEnd and Firebase on back,
-deployed on firebase
+            It uses React on FrontEnd and Firebase on back,   
+deployed on firebase                                          
+*******************************************************************************************************************************************************************
